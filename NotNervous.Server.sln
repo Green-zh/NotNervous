@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotNervous.Server", "NotNervous.Server\NotNervous.Server.csproj", "{75F1126C-9A39-4AC7-8F0A-A9EBED4E1E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotNervous.Test", "NotNervous.Test\NotNervous.Test.csproj", "{3FCD64F4-4326-4C1F-9B8D-A8A90A9E8B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F1126C-9A39-4AC7-8F0A-A9EBED4E1E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F1126C-9A39-4AC7-8F0A-A9EBED4E1E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F1126C-9A39-4AC7-8F0A-A9EBED4E1E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F1126C-9A39-4AC7-8F0A-A9EBED4E1E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCD64F4-4326-4C1F-9B8D-A8A90A9E8B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCD64F4-4326-4C1F-9B8D-A8A90A9E8B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCD64F4-4326-4C1F-9B8D-A8A90A9E8B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCD64F4-4326-4C1F-9B8D-A8A90A9E8B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4B9519-0ACB-4C80-BAEA-8899D12B8544}
+	EndGlobalSection
+EndGlobal
