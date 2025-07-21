@@ -1,0 +1,21 @@
+
+{
+  "questions": [
+    {
+      "question": {
+        "content": "Tell Me About a Time When You Had a Conflict He came from the sales organization. There was a big misalignment between the priorities of sales and product. Sales focused on driving the biggest revenue. Product focused on enabling customers in a scalable way. When sales close deals with customers, cities usually ask us to go through a RFP        "content": "Tell Me About a Time When You Had a Conflict With Your Coworker?",
+        "type": "behavior"
+      },
+      "sample_good_answer_1": "In 2017, I launched a smart city product to use machine vision and IoT system to help cities reduce car crashes. It was the first time Verizon entered this new market and it was a very important initiative, because it will pave the road for our 5G deployment. When I was about to launch the product, a coworker of mine yelled at me on the phone during a group GTM strategy meeting. process. The RFP required us to provide custom response. But sales didn’t have the knowledge for custom solutions. They ended up asking product team to provide custom response for all the 50 RFPs they were after. Product team didn’t see this approach scalable. When I pushed back on the phone, the sales guy started yelling. What I did was: 1. Didn't over react on the phone. I got off the phone and calmed myself down. 2. I tried to understand the issue from his perspective and that the Sales team only wants to close more deals, however, our long-term mission is still aligned. 3. I created a proposal to build the pyramid structure of sales org. I trained the top 5 people from the sales team so they can learn the technical product inside-out. These 5 were then expected to train the rest of their team to provide custom response to cities. We also defined the success criteria to identify when to walk away from a deal. 4. I socialized the proposal with the sales organization and it was accepted. Finally, product and sales were realigned. We successfully launched our product and it was awarded as the Boston Mayor’s best practice",
+      "question_specific_evals": "NA"
+    },
+    {
+      "question": {
+        "content": "Tell me a time when things didn’t go as planned",
+        "type": "behavior"
+      },
+      "sample_good_answer_1": "In 2017, I launched a smart city product to use machine vision and IoT system to help cities reduce car crashes. It was the first time Verizon entered this new market and it’s a very important initiative, because it will pave the road for our 5G deployment. When we did our first launch at Boston Daily, active users of smart cities product went down. Cities didn’t use the dashboard as much. 1. I had engineers who looked into the data and see which features were used the most. Realized customers like near-miss and don’t use red light violation as much. Redesigned our product and made \"near-miss\" as our default data. Eventually, Boston got extremely satisfied with our changes and recommended us to other cities. This led to a $100M new deal with Sacramento. I learned that we need to have a deeper dive of why the data is helpful and how would customers use this data, before we went in for designing.",
+      "question_specific_evals": "NA"
+    }
+  ]
+}
