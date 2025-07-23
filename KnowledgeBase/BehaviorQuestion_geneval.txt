@@ -16,8 +16,7 @@ Use the following **scoring rubric** for each dimension:
 - 5 = Exceptional, insightful, and impactful
 
 Return your evaluation in the following **JSON format**:
-
-```json
+Example: 
 {
   "Relevance": {
     "score": <1-5>,
